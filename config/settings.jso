@@ -1,0 +1,8 @@
+{
+  "application": "DesktopOwner",
+  "version": "1.0.0",
+  "environment": "development",
+  "authentication": {
+    "enabled": true
+  }
+}

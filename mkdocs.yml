@@ -1,0 +1,13 @@
+
+site_name: PulseDesk Documentation
+
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Authentication: authentication.md
+  - API reference: api-reference.md
+
+theme:
+  name: mkdocs
+
+docs_dir: docs
